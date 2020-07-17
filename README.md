@@ -1,8 +1,8 @@
 # Meal App
 
-A working Flutter application to get different Meals with their recepies.
-Get different Categories of Meals like Summer, Quick and Easy, Italian.
-Set filter according to your taste like GlutenFree, Vegetarial recipes, Vegan etc.
+A working Flutter application to get different Meals with their recepies.\n
+Get different Categories of Meals like Summer, Quick and Easy, Italian.\n
+Set filter according to your taste like GlutenFree, Vegetarial recipes, Vegan etc.\n
 Save your Favourite recipes.
 
 ## Getting Started
